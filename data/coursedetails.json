@@ -2,73 +2,85 @@
     {
       "id": 1,
       "name": "PHP",
-      "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
-      "description": "",
+      "title": "Complete PHP tutorial",
+      "description": "PHP is a general-purpose scripting language geared toward web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1993. The PHP reference implementation is now produced by The PHP Group. ",
       "img": "https://tse3.mm.bing.net/th?id=OIP.vvIq_zDcvP7DdivUY8k-DwHaEK&pid=Api&P=0",
       "rating": {
         "number": 4.5,
         "badge": "excellent"
       },
-      "uploadDate": "02/02/2022"
+      "uploadDate": "02/02/2022",
+      "courseContent":["Variable","Echo","Number","String","Loop","Constant","Operator","Array","Function","Validation"],
+      "question":["What is PHP?","What are the benefits of learn PHP?","How PHP works?","Why we use PHP?"]
     },
     {
       "id": 2,
       "name": "HTML",
-      "title": "HTML - The Complete Guide (incl Hooks, React Router, Redux)",
-      "description": "",
+      "title": "HTML guideline for bigenner",
+      "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript.",
       "img": "https://www.mvps.net/docs/wp-content/uploads/2019/10/HTML.jpg",
       "rating": {
         "number": 4.5,
         "badge": "excellent"
       },
-      "uploadDate": "02/02/2022"
+      "uploadDate": "02/02/2022",
+      "courseContent":["HTML Elements","HTML Attributes","HTML Heading","HTML Paragraph","HTML Style","HTML Comment","HTML Image"],
+      "question":["What is HTML?","What are the benefits of learn HTML?","How HTML works?","Why do we use HTML?"]
     },
     {
       "id": 3,
       "name": "CSS",
-      "title": "CSS - The Complete Guide (incl Hooks, React Router, Redux)",
-      "description": "",
+      "title": "Learn CSS Basics and Design Website",
+      "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
       "img": "https://tse4.mm.bing.net/th?id=OIP.tAvAD5lCtDJSjywplxd37QHaEo&pid=Api&P=0",
       "rating": {
         "number": 4.5,
         "badge": "excellent"
       },
-      "uploadDate": "02/02/2022"
+      "uploadDate": "02/02/2022",
+      "courseContent":["CSS Syntax","CSS Selectors","CSS Color","CSS Background","CSS Borders","CSS Margin","CSS Padding"],
+      "question":["What is CSS?","What are the benefits of learn CSS?","How CSS works?","Why we use CSS?"]
     },
     {
       "id": 4,
       "name": "Javascript",
-      "title": "Javascript- The Complete Guide (incl Hooks, React Router, Redux)",
-      "description": "",
+      "title": "Javascript- Bigenner to advanced",
+      "description": "JavaScript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.",
       "img": "https://quocent.com/QUOCENT-CMS/userfiles/StaticBanner/1529923467_Javascript.png",
       "rating": {
         "number": 4.5,
         "badge": "excellent"
       },
-      "uploadDate": "02/02/2022"
+      "uploadDate": "02/02/2022",
+      "courseContent":["JS Introduction","JS Output","JS Variable","JS Let","JS Const","JS Operator","JS Function"],
+      "question":["What is JS?","What are the benefits of learn JS?","How JS works?","Why we use JS?"]
     },
     {
       "id": 5,
       "name": "React js",
       "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
-      "description": "",
+      "description": "React.js or React in general can be considered an open-source JavaScript library that is used to create a user interface (UI) for web applications. React Native on the other hand is used for building cross-platform mobile applications. The underlying framework is more or less the same as React but instead of using web components, it uses native mobile components.",
       "img": "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png",
       "rating": {
         "number": 4.5,
         "badge": "excellent"
       },
-      "uploadDate": "02/02/2022"
+      "uploadDate": "02/02/2022",
+      "courseContent":["ES6","JSX","Components","Class","Props","Class","Event","Conditionals"],
+      "question":["What is React?","What are the benefits of learn React?","How React works?","Why we use React?"]
     },
     {
       "id": 6,
       "name": "Python",
-      "title": "python - The Complete Guide (incl Hooks, React Router, Redux)",
-      "description": "",
+      "title": "python - The Complete Guide for Bigenners",
+      "description": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming.",
       "img": "http://blog.addthiscdn.com/wp-content/uploads/2014/11/addthis-react-flux-javascript-scaling.png",
       "rating": {
         "number": 4.5,
         "badge": "excellent"
       },
-      "uploadDate": "02/02/2022"
+      "uploadDate": "02/02/2022",
+      "courseContent":["Variable","Data Type","If Else","Array","List","Tuples","Class","Function","Object"],
+      "question":["What is Python?","What are the benefits of learn Phython?","How Phython works?","Why we use Phython?"]
     }
   ]
